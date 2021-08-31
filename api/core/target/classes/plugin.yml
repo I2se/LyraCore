@@ -1,0 +1,5 @@
+name: LyraAPI
+version: ${project.parent.version}
+description: ${project.parent.description}
+main: fr.lyrania.api.LyraAPI
+authors: [ PixelDeEcran, Sothiso ]

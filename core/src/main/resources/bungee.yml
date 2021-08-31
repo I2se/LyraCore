@@ -1,0 +1,5 @@
+name: LyraCore
+version: 1.0.0
+main: fr.lyrania.core.Core
+
+permissions:
